@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "proyectoGraficas", "proyectoGraficas\proyectoGraficas.vcxproj", "{5C235856-E6DF-4681-9901-D1E976D34C41}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{1C5404AA-81C1-47B5-B039-79DC55FFA07E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C235856-E6DF-4681-9901-D1E976D34C41}.Debug|x64.ActiveCfg = Debug|x64
+		{5C235856-E6DF-4681-9901-D1E976D34C41}.Debug|x64.Build.0 = Debug|x64
+		{5C235856-E6DF-4681-9901-D1E976D34C41}.Debug|x86.ActiveCfg = Debug|Win32
+		{5C235856-E6DF-4681-9901-D1E976D34C41}.Debug|x86.Build.0 = Debug|Win32
+		{5C235856-E6DF-4681-9901-D1E976D34C41}.Release|x64.ActiveCfg = Release|x64
+		{5C235856-E6DF-4681-9901-D1E976D34C41}.Release|x64.Build.0 = Release|x64
+		{5C235856-E6DF-4681-9901-D1E976D34C41}.Release|x86.ActiveCfg = Release|Win32
+		{5C235856-E6DF-4681-9901-D1E976D34C41}.Release|x86.Build.0 = Release|Win32
+		{1C5404AA-81C1-47B5-B039-79DC55FFA07E}.Debug|x64.ActiveCfg = Debug
+		{1C5404AA-81C1-47B5-B039-79DC55FFA07E}.Debug|x86.ActiveCfg = Debug
+		{1C5404AA-81C1-47B5-B039-79DC55FFA07E}.Release|x64.ActiveCfg = Release
+		{1C5404AA-81C1-47B5-B039-79DC55FFA07E}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3838D2D3-7775-4DA0-9705-8A3D393F9F2A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿  InicioProyectoPRUEBA.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': redefinición de macro
+C:\Users\omarm\source\repos\proyectoGraficas\proyectoGraficas\include\glfw3.h(98): message : vea la definición anterior de 'APIENTRY'
+C:\Users\omarm\source\repos\proyectoGraficas\proyectoGraficas\InicioProyectoPRUEBA.cpp(1825,39): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\omarm\source\repos\proyectoGraficas\proyectoGraficas\InicioProyectoPRUEBA.cpp(1825,30): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\omarm\source\repos\proyectoGraficas\proyectoGraficas\InicioProyectoPRUEBA.cpp(1832,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(etc1_utils.obj)' o en 'C:\Users\omarm\source\repos\proyectoGraficas\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'C:\Users\omarm\source\repos\proyectoGraficas\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_helper.obj)' o en 'C:\Users\omarm\source\repos\proyectoGraficas\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'C:\Users\omarm\source\repos\proyectoGraficas\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  proyectoGraficas.vcxproj -> C:\Users\omarm\source\repos\proyectoGraficas\Debug\proyectoGraficas.exe
